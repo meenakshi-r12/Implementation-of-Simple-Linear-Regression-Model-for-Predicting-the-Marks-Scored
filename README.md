@@ -23,7 +23,8 @@ RegisterNumber:
 ![simple linear regression model for predicting the marks scored](sam.png)
 
 
-## Result:![WhatsApp Image 2025-02-25 at 14 08 03_e3832ff8](https://github.com/user-attachments/assets/af8b935c-ba92-42be-8da6-26816d44b200)
+![WhatsApp Image 2025-02-25 at 14 08 03_e3832ff8](https://github.com/user-attachments/assets/af8b935c-ba92-42be-8da6-26816d44b200)
 
+## Result:
 
 Thus the program to implement the simple linear regression model for predicting the marks scored is written and verified using python programming.
