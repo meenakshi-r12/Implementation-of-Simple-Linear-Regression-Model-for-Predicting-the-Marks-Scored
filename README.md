@@ -14,8 +14,7 @@ To write a program to predict the marks scored by a student using the simple lin
 4. 
 
 ## Program:
-```
-/*
+
 Program to implement the simple linear regression model for predicting the marks scored.
 Developed by: 
 RegisterNumber:
@@ -24,6 +23,7 @@ RegisterNumber:
 ![simple linear regression model for predicting the marks scored](sam.png)
 
 
-## Result:
+## Result:![WhatsApp Image 2025-02-25 at 14 08 03_e3832ff8](https://github.com/user-attachments/assets/af8b935c-ba92-42be-8da6-26816d44b200)
+
 
 Thus the program to implement the simple linear regression model for predicting the marks scored is written and verified using python programming.
