@@ -23,7 +23,7 @@ RegisterNumber:
 ## Output:
 ![simple linear regression model for predicting the marks scored](sam.png)
 
-
+![WhatsApp Image 2025-02-25 at 14 08 03_e3832ff8](https://github.com/user-attachments/assets/ec268d13-e355-41d5-ba99-5c0b3aee3816)
 ## Result:
 
 ![WhatsApp Image 2025-02-25 at 14 08 03_e3832ff8](https://github.com/user-attachments/assets/b01061c2-5f99-4436-82c9-e0c5f853506b)
