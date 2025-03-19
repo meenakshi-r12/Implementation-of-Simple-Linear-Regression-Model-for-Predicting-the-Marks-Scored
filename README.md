@@ -60,10 +60,23 @@ plt.show()
 ```
 ## Output:
 
-<img width="255" alt="Screenshot 2025-03-19 114206" src="https://github.com/user-attachments/assets/aaaf16b3-36ef-41fe-ba8b-007d621ba130" />
+![image](https://github.com/user-attachments/assets/19bc5cd3-1a23-4690-932e-bb2ca716597a)
 
 ![image](https://github.com/user-attachments/assets/f2eaed5d-4b02-42c0-86b1-154945fa3ec7)
 
+![image](https://github.com/user-attachments/assets/bb797617-4600-4f33-9ab9-6e7c5c5be676)
+
+![image](https://github.com/user-attachments/assets/bb309010-eb20-4d2d-8215-f98a70a6fa93)
+
+![image](https://github.com/user-attachments/assets/663a9968-bd65-48b7-b296-a1f5c8af474d)
+
+![image](https://github.com/user-attachments/assets/0792c9e7-9b02-48f8-b83e-10fbc273db45)
+
+![image](https://github.com/user-attachments/assets/7ecefef8-a779-4045-88ed-441761c18b2c)
+
+![image](https://github.com/user-attachments/assets/e048ba53-175b-4078-a7a5-3b222590064f)
+
+![image](https://github.com/user-attachments/assets/3fc75420-24be-405c-aaf0-6b7445c094c9)
 
 ## Result:
 
