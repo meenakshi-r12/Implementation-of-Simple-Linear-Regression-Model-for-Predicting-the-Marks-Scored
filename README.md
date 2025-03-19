@@ -18,7 +18,7 @@ To write a program to predict the marks scored by a student using the simple lin
 Program to implement the simple linear regression model for predicting the marks scored.
 Developed by: 
 RegisterNumber:
-
+```
 import pandas as pd 
 import numpy as np
 import matplotlib.pyplot as plt
@@ -27,12 +27,8 @@ df=pd.read_csv('student_scores.csv')
 #displaying the content in datfile
 df.head()
 df.tail()
-
+```
 ## Output:
-![simple linear regression model for predicting the marks scored](sam.png)
-
-
-![WhatsApp Image 2025-02-25 at 14 08 03_e3832ff8](https://github.com/user-attachments/assets/af8b935c-ba92-42be-8da6-26816d44b200)
 
 ## Result:
 
